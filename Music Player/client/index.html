@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Music Player</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="./images/music-player-icon.jpg">
+    <link rel="stylesheet" type="text/css" media="screen" href="Styles.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="menu-list">
+            <div class="name-header">
+                <h2>Music Player</h2>
+            </div>
+            <div class="favorites">
+                <h2><u>Favorites</u></h2>
+                <ul id="favorites-list">
+                    
+                </ul>
+            </div>
+            <div class="playlists">
+                <h2>Playlists</h2>
+                <input type="text" id="playlist-name" placeholder="Playlist name">
+                <button onclick="createPlaylist()">Create Playlist</button>
+            </div>
+        </div>
+        <div class="songs-card">
+            <div class="song-header">
+                <h2>Songs</h2>
+            </div>
+            <div class="music-container">
+                <div class="music-list">
+
+                </div>
+                <div class="music-details" id="musicDetails">
+                    <button class="close-btn" onclick="closeMusicDetails()">X</button>
+                    <div id="musicDetailsContent"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <script src="Script.js"></script>
+</body>
+
+</html>
