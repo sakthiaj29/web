@@ -6,7 +6,7 @@
 - Click on a song to play it and control playback
 
 <br/>
-Web link-[WebLink](https://musicplayer-60030269517.development.catalystserverless.in/app/index.html)
+Web link-https://musicplayer-60030269517.development.catalystserverless.in/app/index.html
 <br/>
 
 **Screen Shot**
