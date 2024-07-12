@@ -4,6 +4,10 @@
  - Questions with multiple options.
  - When choosing the answer and clicking the next or submit button, it shows whether your answer is correct or not.
  - At the end of the quiz, your score will be displayed.
+
+  <br/>
+  
+   Web link - https://quiz-60030269517.development.catalystserverless.in/app/index.html
    <br/>
    
  **screen shot**
