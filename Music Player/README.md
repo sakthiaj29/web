@@ -4,9 +4,9 @@
 - Add songs to Favorites.
 - Create playlists using the 'Create Playlist' button.
 - Click on a song to play it and control playback
-
 <br/>
 Web link-https://musicplayer-60030269517.development.catalystserverless.in/app/index.html
+
 <br/>
 
 **Screen Shot**
